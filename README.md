@@ -24,6 +24,10 @@ For production, Heroku and Netlify were used.
 ### The App
 The production-ready version of Foodie Phonetics can be found at: https://foodiephonetics.netlify.com
 
+### Demo Credentials
+###### username: brian-dudey-demo
+###### password: pass1234567
+
 ### Login Page
 ![Alt text](https://github.com/thinkful-ei18/Alisha_Brian_SpacedRep_Client/blob/master/FoodiePhonetics_LoginPage_042018.png?raw=true "Foodie Phonetics Login Page")
 
